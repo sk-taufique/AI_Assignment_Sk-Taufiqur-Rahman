@@ -80,7 +80,6 @@ Predicted Category: Login Issue
 Confidence: 96.5%
 Suggested Response: Please use the "Forgot Password" option on the login page to reset your password...
 ```
-Web app screenshot: `screenshots/web_prediction.png`
 
 ## 9. Results (test data = 20%, 54 tickets)
 | Metric | Score |
@@ -96,6 +95,7 @@ Web app screenshot: `screenshots/web_prediction.png`
 Small, synthetic dataset; wording is more regular than real customer emails; overlapping words (e.g. "slow" + "error")
 cause confusion; unknown topics are always forced into one of the 5 categories. See `report.pdf` for details.
 
-## 11. Use of AI tools
-AI assistance (Claude) was used to help write and structure the code and documentation. I reviewed, ran, and understood every file,
-and can explain it. No API keys or credentials are included.
+## 11.Conclusion
+This project built a working system that predicts the category of a customer support ticket from its description. The ticket text is cleaned, converted into TF-IDF features and classified by a Logistic Regression model. On 54 unseen test tickets the model reached 94.4% accuracy (precision 95.2%, recall 94.4%, F1 94.4%), and it predicted all 8 completely new tickets correctly. The few mistakes happened where categories share words, such as “slow” and “error”.
+
+The solution is simple, fast and explainable, and it also shows a confidence score so uncertain tickets can be reviewed by a person. Its main limits are the small synthetic dataset and the fixed set of 5 categories, so real-world accuracy would probably be lower. With more real tickets, better text processing and a stronger model, the same approach could help a support team sort tickets automatically and respond faster.
