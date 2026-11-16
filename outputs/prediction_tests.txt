@@ -1,0 +1,12 @@
+Test Input                                                              Expected            Predicted           Conf.   Result
+----------------------------------------------------------------------------------------------------------------------------------
+I am unable to login because my password is not working.                Login Issue         Login Issue         96.6    PASS
+Why does the system say my credentials are wrong?                       Login Issue         Login Issue         36.2    PASS
+An unexpected error popped up and the data did not get stored.          Application Error   Application Error   79.9    PASS
+Please share the sales summary for October.                             Report              Report              83.0    PASS
+Kindly change the mobile number linked to my account.                   Account Update      Account Update      92.2    PASS
+The website is taking ages to open.                                     Performance         Performance         80.6    PASS
+The software crashed when I pressed the submit button.                  Application Error   Application Error   59.6    PASS
+I want to get a download of all revenue figures for the last quarter.   Report              Report              76.6    PASS
+----------------------------------------------------------------------------------------------------------------------------------
+Correct: 8/8

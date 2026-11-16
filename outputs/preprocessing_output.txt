@@ -1,0 +1,73 @@
+======================================================================
+1. RAW DATASET (first 10 rows)
+======================================================================
+ticket_id customer_name                                                       ticket_description       date priority status          category
+     T001    Divya Iyer                                    Unable to log in using single sign on 2026-08-28   Medium Closed       Login Issue
+     T002    Karan Iyer Urgent: Need an attendance report for all employees as soon as possible. 2026-03-16      Low   Open            Report
+     T003    Kavya Iyer                                     Hello team, Application is very slow 2026-10-02     High   Open       Performance
+     T004    Imran Iyer                      Please create a report showing the sales by product 2026-08-10      NaN Closed            Report
+     T005   Imran Verma         Hello team, The screen is lagging when I scroll through the list 2026-10-22     High   Open       Performance
+     T006     Isha Nair                                     Hi, The mobile app is slow and laggy 2026-09-14     High   Open       Performance
+     T007    Divya Khan                                    Data got lost after the system failed 2026-08-12     High Closed Application Error
+     T008    Rahul Iyer                        It takes more than a minute to open the dashboard 2026-05-24     High   Open       Performance
+     T009 Ananya Sharma            Problem with the app, it does not respond and shows a message 2026-03-28   Medium Closed Application Error
+     T010    Imran Nair                     Please provide a report of last month's transactions 2026-07-21     High   Open            Report
+
+Shape (rows, columns): (280, 7)
+
+======================================================================
+2. MISSING VALUES PER COLUMN
+======================================================================
+ticket_id             0
+customer_name         0
+ticket_description    1
+date                  0
+priority              1
+status                1
+category              0
+dtype: int64
+
+Duplicate records (ignoring ticket_id): 5
+Rows dropped because description/category was missing: 1
+Rows dropped because cleaned text was duplicated:      4
+
+======================================================================
+3. AFTER CLEANING (first 10 rows)
+======================================================================
+ticket_id                                                       ticket_description                                                      clean_description          category
+     T001                                    Unable to log in using single sign on                                  unable to log in using single sign on       Login Issue
+     T002 Urgent: Need an attendance report for all employees as soon as possible. urgent need an attendance report for all employees as soon as possible            Report
+     T003                                     Hello team, Application is very slow                                    hello team application is very slow       Performance
+     T004                      Please create a report showing the sales by product                    please create a report showing the sales by product            Report
+     T005         Hello team, The screen is lagging when I scroll through the list        hello team the screen is lagging when i scroll through the list       Performance
+     T006                                     Hi, The mobile app is slow and laggy                                    hi the mobile app is slow and laggy       Performance
+     T007                                    Data got lost after the system failed                                  data got lost after the system failed Application Error
+     T008                        It takes more than a minute to open the dashboard                      it takes more than a minute to open the dashboard       Performance
+     T009            Problem with the app, it does not respond and shows a message           problem with the app it does not respond and shows a message Application Error
+     T010                     Please provide a report of last month's transactions                    please provide a report of last months transactions            Report
+
+======================================================================
+4. BASIC INFORMATION
+======================================================================
+<class 'pandas.DataFrame'>
+RangeIndex: 270 entries, 0 to 269
+Data columns (total 8 columns):
+ #   Column              Non-Null Count  Dtype
+---  ------              --------------  -----
+ 0   ticket_id           270 non-null    str  
+ 1   customer_name       270 non-null    str  
+ 2   ticket_description  270 non-null    str  
+ 3   date                270 non-null    str  
+ 4   priority            270 non-null    str  
+ 5   status              270 non-null    str  
+ 6   category            270 non-null    str  
+ 7   clean_description   270 non-null    str  
+dtypes: str(8)
+memory usage: 17.0 KB
+
+Missing values after cleaning:
+0 missing values
+Final number of records: 270
+Number of categories:    5
+
+Saved cleaned data to /home/claude/AI_Assignment_YourName/data/tickets_clean.csv

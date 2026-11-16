@@ -1,0 +1,41 @@
+============================================================
+EXPLORATORY DATA ANALYSIS
+============================================================
+Total number of tickets: 270
+
+Tickets per category:
+ category
+Performance          55
+Account Update       55
+Report               54
+Login Issue          53
+Application Error    53
+Name: count, dtype: int64 
+
+Tickets per priority:
+ priority
+High      110
+Medium     94
+Low        66
+Name: count, dtype: int64 
+
+Tickets per status:
+ status
+Closed         142
+Open            93
+In Progress     35
+Name: count, dtype: int64 
+
+Category distribution (%):
+ category
+Performance          20.4
+Account Update       20.4
+Report               20.0
+Login Issue          19.6
+Application Error    19.6
+Name: proportion, dtype: float64 
+
+Average words per ticket: 9.4
+Shortest / longest ticket (words): 2 / 19
+
+Charts saved in: /home/claude/AI_Assignment_YourName/screenshots

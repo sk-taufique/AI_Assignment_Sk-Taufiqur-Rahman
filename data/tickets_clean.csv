@@ -1,0 +1,271 @@
+ticket_id,customer_name,ticket_description,date,priority,status,category,clean_description
+T001,Divya Iyer,Unable to log in using single sign on,2026-08-28,Medium,Closed,Login Issue,unable to log in using single sign on
+T002,Karan Iyer,Urgent: Need an attendance report for all employees as soon as possible.,2026-03-16,Low,Open,Report,urgent need an attendance report for all employees as soon as possible
+T003,Kavya Iyer,"Hello team, Application is very slow",2026-10-02,High,Open,Performance,hello team application is very slow
+T004,Imran Iyer,Please create a report showing the sales by product,2026-08-10,Medium,Closed,Report,please create a report showing the sales by product
+T005,Imran Verma,"Hello team, The screen is lagging when I scroll through the list",2026-10-22,High,Open,Performance,hello team the screen is lagging when i scroll through the list
+T006,Isha Nair,"Hi, The mobile app is slow and laggy",2026-09-14,High,Open,Performance,hi the mobile app is slow and laggy
+T007,Divya Khan,Data got lost after the system failed,2026-08-12,High,Closed,Application Error,data got lost after the system failed
+T008,Rahul Iyer,It takes more than a minute to open the dashboard,2026-05-24,High,Open,Performance,it takes more than a minute to open the dashboard
+T009,Ananya Sharma,"Problem with the app, it does not respond and shows a message",2026-03-28,Medium,Closed,Application Error,problem with the app it does not respond and shows a message
+T010,Imran Nair,Please provide a report of last month's transactions,2026-07-21,High,Open,Report,please provide a report of last months transactions
+T011,Rahul Iyer,Error popup appears every time I delete an item.,2026-07-11,High,Closed,Application Error,error popup appears every time i delete an item
+T012,Vikram Iyer,Please note: The system is taking too long to load,2026-09-23,High,Closed,Performance,please note the system is taking too long to load
+T013,Neha Verma,Sluggish performance when many users are logged in Please help.,2026-03-09,High,Closed,Performance,sluggish performance when many users are logged in please help
+T014,Vikram Patel,Wrong name is shown on my account,2026-08-01,Medium,Closed,Account Update,wrong name is shown on my account
+T015,Ananya Das,My number has changed,2026-09-08,Medium,Open,Account Update,my number has changed
+T016,Pooja Das,Please update my email address on my account,2026-07-05,Medium,Closed,Account Update,please update my email address on my account
+T017,Neha Verma,The app is lagging and keeps freezing for a few seconds,2026-07-01,Low,Open,Performance,the app is lagging and keeps freezing for a few seconds
+T018,Aarav Verma,The application throws an exception when I update a record,2026-05-06,High,Open,Application Error,the application throws an exception when i update a record
+T019,Karan Khan,Application stopped working and shows a fatal error,2026-08-05,Low,Closed,Application Error,application stopped working and shows a fatal error
+T020,Faisal Roy,Why is the application running so slow,2026-01-13,Medium,Open,Performance,why is the application running so slow
+T021,Pooja Reddy,Login failed for my account since this morning.,2026-03-15,Medium,Closed,Login Issue,login failed for my account since this morning
+T022,Kavya Khan,Getting error 404 page not found on the orders screen Thanks.,2026-09-15,High,Open,Application Error,getting error page not found on the orders screen thanks
+T023,Sneha Verma,"Dear support, I want to close my old mobile number and register a new one Thanks.",2026-09-24,Low,Closed,Account Update,dear support i want to close my old mobile number and register a new one thanks
+T024,Priya Singh,Everything is running very slowly on my computer,2026-10-21,High,Closed,Performance,everything is running very slowly on my computer
+T025,Meera Verma,Need to change the primary contact person on my account,2026-02-27,High,Closed,Account Update,need to change the primary contact person on my account
+T026,Rahul Nair,"Hello team, The application became slow after the latest update",2026-10-17,High,Closed,Performance,hello team the application became slow after the latest update
+T027,Meera Nair,Please note: I want to add a new contact number to my profile,2026-07-09,High,Open,Account Update,please note i want to add a new contact number to my profile
+T028,Imran Patel,My password is not working and I need to reset it,2026-05-13,High,Closed,Login Issue,my password is not working and i need to reset it
+T029,Isha Patel,The reset password email never arrives in my inbox Please help.,2026-03-15,High,In Progress,Login Issue,the reset password email never arrives in my inbox please help
+T030,Arjun Verma,"Hi, Unable to export report to PDF.",2026-03-08,Medium,Open,Report,hi unable to export report to pdf
+T031,Neha Patel,Cannot access my account because I forgot the username,2026-01-08,Medium,In Progress,Login Issue,cannot access my account because i forgot the username
+T032,Isha Khan,I need a summary report of all customer orders,2026-05-02,Low,Closed,Report,i need a summary report of all customer orders
+T033,Ananya Reddy,Sign in button does nothing when I enter my password,2026-09-28,Medium,In Progress,Login Issue,sign in button does nothing when i enter my password
+T034,Rahul Sharma,"Hello team, Please schedule a weekly report to be emailed to me",2026-03-26,Medium,Closed,Report,hello team please schedule a weekly report to be emailed to me
+T035,Rahul Das,Please create a report showing the sales by product as soon as possible.,2026-05-11,Medium,Closed,Report,please create a report showing the sales by product as soon as possible
+T036,Tanvi Roy,Urgent: Save button gives a failed to save error as soon as possible.,2026-07-27,Low,Closed,Application Error,urgent save button gives a failed to save error as soon as possible
+T037,Pooja Patel,Very long delay when I click on any button,2026-01-11,Low,Closed,Performance,very long delay when i click on any button
+T038,Meera Singh,The mobile app is slow and laggy,2026-10-01,Low,Open,Performance,the mobile app is slow and laggy
+T039,Tanvi Das,My account is locked after too many login attempts,2026-10-07,Medium,Open,Login Issue,my account is locked after too many login attempts
+T040,Sameer Singh,I see a database error when I try to save the form,2026-08-22,High,Closed,Application Error,i see a database error when i try to save the form
+T042,Pooja Iyer,Where can I find the daily activity report as soon as possible.,2026-06-11,Low,In Progress,Report,where can i find the daily activity report as soon as possible
+T043,Divya Iyer,The system crashed and I lost my unsaved work,2026-03-20,High,Closed,Application Error,the system crashed and i lost my unsaved work
+T044,Karan Das,"Hi, Sign in button does nothing when I enter my password Please help.",2026-08-17,High,Open,Login Issue,hi sign in button does nothing when i enter my password please help
+T045,Sameer Singh,"Hi, The sales report shows incorrect totals Thanks.",2026-05-28,Medium,Closed,Report,hi the sales report shows incorrect totals thanks
+T046,Sneha Singh,The downloaded report is empty,2026-02-21,Low,Closed,Report,the downloaded report is empty
+T047,Faisal Verma,"Hello team, My login does not work after the password change",2026-05-27,Medium,Closed,Login Issue,hello team my login does not work after the password change
+T048,Arjun Reddy,Report is slow to download,2026-08-07,Low,Open,Report,report is slow to download
+T049,Priya Patel,Uploading a file takes forever,2026-08-15,Medium,Closed,Performance,uploading a file takes forever
+T050,Isha Das,The report is missing data for last week,2026-06-23,Medium,Open,Report,the report is missing data for last week
+T051,Karan Das,I get a timeout error when I submit the form,2026-04-15,High,Closed,Application Error,i get a timeout error when i submit the form
+T052,Pooja Verma,"Hello team, I would like to change my subscription plan details Please help.",2026-10-17,Medium,Closed,Account Update,hello team i would like to change my subscription plan details please help
+T053,Sneha Singh,I want to change my account email to a new one,2026-02-05,Low,Open,Account Update,i want to change my account email to a new one
+T054,Priya Verma,"Dear support, I am not receiving the OTP to log in",2026-03-21,High,Closed,Login Issue,dear support i am not receiving the otp to log in
+T055,Ananya Reddy,Urgent: Kindly modify the registered address of my account Please help.,2026-08-26,Medium,In Progress,Account Update,urgent kindly modify the registered address of my account please help
+T056,Isha Patel,Unable to sign in with my username and password,2026-06-27,Medium,Open,Login Issue,unable to sign in with my username and password
+T057,Meera Patel,Want a summary of my team's work,2026-02-05,Low,Closed,Report,want a summary of my teams work
+T058,Rahul Khan,"New phone, please change",2026-06-21,High,Closed,Account Update,new phone please change
+T059,Isha Verma,I keep getting logged out immediately after signing in as soon as possible.,2026-01-21,Low,Closed,Login Issue,i keep getting logged out immediately after signing in as soon as possible
+T060,Ananya Singh,Loading time of the home page is very high,2026-01-14,High,Closed,Performance,loading time of the home page is very high
+T061,Ananya Verma,   PLEASE UPDATE MY EMAIL ADDRESS ON MY ACCOUNT PLEASE HELP.!!!  ,2026-10-28,Medium,Closed,Account Update,please update my email address on my account please help
+T062,Neha Nair,"Hi, An error is displayed when I try to edit my records",2026-02-26,Low,Closed,Application Error,hi an error is displayed when i try to edit my records
+T063,Rohan Reddy,"Dear support, Incorrect password error even though I typed the right one",2026-04-02,High,Closed,Login Issue,dear support incorrect password error even though i typed the right one
+T064,Karan Khan,Performance has degraded a lot in the last few days,2026-10-23,Low,Open,Performance,performance has degraded a lot in the last few days
+T065,Tanvi Verma,Two factor authentication code is not accepted,2026-07-13,High,Closed,Login Issue,two factor authentication code is not accepted
+T066,Rohan Nair,Can you update my shipping address,2026-04-27,Low,Open,Account Update,can you update my shipping address
+T067,Arjun Sharma,Please note: Why is the application running so slow Kindly resolve this.,2026-06-26,High,Open,Performance,please note why is the application running so slow kindly resolve this
+T068,Neha Patel,The system crashed and I lost my unsaved work Please help.,2026-07-26,High,Closed,Application Error,the system crashed and i lost my unsaved work please help
+T069,Sameer Verma,Change my details,2026-06-22,Medium,Open,Account Update,change my details
+T070,Rahul Patel,I want to download the quarterly revenue report.,2026-07-16,Medium,Open,Report,i want to download the quarterly revenue report
+T071,Sneha Nair,"There is a bug, the app closes unexpectedly when I press save",2026-04-15,Medium,Closed,Application Error,there is a bug the app closes unexpectedly when i press save
+T072,Pooja Iyer,Application is very slow,2026-02-10,Medium,Closed,Performance,application is very slow
+T073,Pooja Das,Is there a way to see the total sales per region,2026-08-25,High,Open,Report,is there a way to see the total sales per region
+T074,Kavya Reddy,"Hello team, The app keeps crashing on startup as soon as possible.",2026-08-03,Medium,Open,Application Error,hello team the app keeps crashing on startup as soon as possible
+T075,Divya Khan,My login does not work after the password change,2026-08-01,Low,In Progress,Login Issue,my login does not work after the password change
+T076,Nikhil Patel,Please schedule a weekly report to be emailed to me,2026-07-04,Medium,Closed,Report,please schedule a weekly report to be emailed to me
+T077,Rahul Iyer,"Dear support, The app is lagging and keeps freezing for a few seconds Kindly resolve this.",2026-02-08,High,Closed,Performance,dear support the app is lagging and keeps freezing for a few seconds kindly resolve this
+T078,Karan Iyer,An error is displayed when I try to edit my records,2026-04-03,High,Closed,Application Error,an error is displayed when i try to edit my records
+T079,Divya Roy,Upload fails with an unknown error message,2026-09-26,Medium,Open,Application Error,upload fails with an unknown error message
+T080,Neha Verma,The sales report shows incorrect totals,2026-04-04,Medium,Closed,Report,the sales report shows incorrect totals
+T081,Aarav Khan,The app crashes whenever I open the dashboard Thanks.,2026-06-26,Low,Closed,Application Error,the app crashes whenever i open the dashboard thanks
+T082,Neha Sharma,Please change my phone number in the system,2026-07-09,High,In Progress,Account Update,please change my phone number in the system
+T083,Nikhil Nair,The website response time is too high,2026-06-28,Low,Open,Performance,the website response time is too high
+T084,Imran Sharma,Please unlock my user account so I can log in,2026-01-19,High,In Progress,Login Issue,please unlock my user account so i can log in
+T085,Rahul Iyer,Please note: I want to change my account email to a new one Kindly resolve this.,2026-01-09,Low,Closed,Account Update,please note i want to change my account email to a new one kindly resolve this
+T086,Rahul Nair,Please note: Can you generate an inventory report for this month as soon as possible.,2026-01-05,Medium,Closed,Report,please note can you generate an inventory report for this month as soon as possible
+T087,Kavya Patel,Error 500 internal server error appears on the page as soon as possible.,2026-08-12,High,Closed,Application Error,error internal server error appears on the page as soon as possible
+T088,Sameer Iyer,"Hello team, Please help me generate my monthly sales report as soon as possible.",2026-10-09,Medium,Open,Report,hello team please help me generate my monthly sales report as soon as possible
+T089,Meera Roy,Please note: Please provide a report of last month's transactions Kindly resolve this.,2026-01-20,High,Closed,Report,please note please provide a report of last months transactions kindly resolve this
+T090,Tanvi Sharma,"Dear support, Please edit my date of birth in my account details.",2026-09-10,Medium,In Progress,Account Update,dear support please edit my date of birth in my account details
+T091,Karan Das,Unable to log in using single sign on Please help.,2026-02-08,High,Closed,Login Issue,unable to log in using single sign on please help
+T092,Pooja Nair,Error when changing my profile,2026-07-09,Medium,Closed,Application Error,error when changing my profile
+T094,Kavya Verma,Please replace my old email with my new email address,2026-06-28,Low,Open,Account Update,please replace my old email with my new email address
+T095,Neha Singh,"Hi, I would like a custom report of tickets by region Please help.",2026-02-22,Medium,Open,Report,hi i would like a custom report of tickets by region please help
+T096,Karan Nair,I need numbers for my manager by Friday,2026-01-20,Medium,Closed,Report,i need numbers for my manager by friday
+T097,Tanvi Reddy,I need to update my company details,2026-03-21,High,Closed,Account Update,i need to update my company details
+T098,Faisal Verma,It takes more than a minute to open the dashboard Please help.,2026-09-17,High,Closed,Performance,it takes more than a minute to open the dashboard please help
+T099,Priya Singh,I moved to a new city and need to update my address,2026-07-14,Low,Closed,Account Update,i moved to a new city and need to update my address
+T100,Isha Reddy,Report takes ages to load,2026-03-21,High,Closed,Performance,report takes ages to load
+T101,Aarav Khan,Need an export of all my records,2026-08-17,Medium,Closed,Report,need an export of all my records
+T102,Neha Roy,I see a database error when I try to save the form Please help.,2026-10-11,High,In Progress,Application Error,i see a database error when i try to save the form please help
+T103,Faisal Khan,System not responding quickly,2026-10-19,High,Closed,Performance,system not responding quickly
+T104,Isha Patel,Password reset is not working,2026-09-14,High,Closed,Login Issue,password reset is not working
+T105,Ananya Singh,The app keeps crashing on startup,2026-08-09,Medium,Closed,Application Error,the app keeps crashing on startup
+T106,Sneha Sharma,I need a summary report of all customer orders as soon as possible.,2026-10-10,Medium,Closed,Report,i need a summary report of all customer orders as soon as possible
+T107,Neha Patel,I need to change my registered mobile number,2026-02-14,Low,Closed,Account Update,i need to change my registered mobile number
+T108,Meera Nair,I want to change the name on my profile,2026-03-08,Medium,Open,Account Update,i want to change the name on my profile
+T109,Sameer Khan,Please help me generate my monthly sales report,2026-07-06,Low,In Progress,Report,please help me generate my monthly sales report
+T110,Nikhil Nair,Unable to export report to PDF,2026-01-20,Low,Open,Report,unable to export report to pdf
+T111,Imran Nair,"Dear support, Pages are loading very slowly since this morning",2026-07-19,High,Closed,Performance,dear support pages are loading very slowly since this morning
+T112,Nikhil Roy,I want to close my old mobile number and register a new one,2026-06-13,Low,Closed,Account Update,i want to close my old mobile number and register a new one
+T113,Faisal Roy,The app is taking too long to respond,2026-09-02,Medium,In Progress,Performance,the app is taking too long to respond
+T114,Sneha Singh,Save button gives a failed to save error,2026-03-26,High,Closed,Application Error,save button gives a failed to save error
+T115,Arjun Khan,Where can I find the daily activity report,2026-10-14,Low,Closed,Report,where can i find the daily activity report
+T116,Meera Iyer,"Dear support, The system says my password has expired and I cannot reset it.",2026-04-04,High,Closed,Login Issue,dear support the system says my password has expired and i cannot reset it
+T117,Vikram Khan,The app is taking too long to respond Thanks.,2026-03-27,Medium,Closed,Performance,the app is taking too long to respond thanks
+T118,Vikram Roy,Please note: Performance has degraded a lot in the last few days Kindly resolve this.,2026-02-21,Medium,Closed,Performance,please note performance has degraded a lot in the last few days kindly resolve this
+T119,Sneha Nair,Cannot get in,2026-06-05,High,Closed,Login Issue,cannot get in
+T120,Nikhil Reddy,Need the expense report for the finance team,2026-08-04,Medium,Open,Report,need the expense report for the finance team
+T121,Karan Singh,"Please correct my address, the report shows the old one",2026-09-14,Low,Closed,Account Update,please correct my address the report shows the old one
+T122,Sameer Roy,"Hello team, I cannot login to the application",2026-02-13,High,Open,Login Issue,hello team i cannot login to the application
+T123,Aarav Iyer,I would like a custom report of tickets by region,2026-08-23,Medium,Open,Report,i would like a custom report of tickets by region
+T124,Kavya Reddy,Error 500 internal server error appears on the page,2026-03-26,Medium,Open,Application Error,error internal server error appears on the page
+T125,Sameer Sharma,I need to update my company details Please help.,2026-10-12,Low,Open,Account Update,i need to update my company details please help
+T126,Kavya Iyer,Update the designation in my account profile,2026-06-27,Medium,Closed,Account Update,update the designation in my account profile
+T127,Nikhil Das,Generate the monthly invoice report for me,2026-02-28,Low,Open,Report,generate the monthly invoice report for me
+T128,Divya Das,"Hello team, Unexpected error occurred while processing my request Please help.",2026-07-23,High,Open,Application Error,hello team unexpected error occurred while processing my request please help
+T129,Priya Iyer,Urgent: Please change the registered email id Kindly resolve this.,2026-05-07,Low,In Progress,Account Update,urgent please change the registered email id kindly resolve this
+T130,Rahul Iyer,Please note: Application stopped working and shows a fatal error,2026-03-28,High,Open,Application Error,please note application stopped working and shows a fatal error
+T131,Rahul Das,"Dear support, I moved to a new city and need to update my address",2026-10-05,High,Open,Account Update,dear support i moved to a new city and need to update my address
+T132,Imran Patel,Login page keeps saying invalid credentials,2026-08-13,Medium,Closed,Login Issue,login page keeps saying invalid credentials
+T133,Ananya Iyer,Please note: Verification code for login is not coming to my phone,2026-01-13,High,Closed,Login Issue,please note verification code for login is not coming to my phone
+T134,Kavya Reddy,The system says my password has expired and I cannot reset it,2026-08-07,High,Closed,Login Issue,the system says my password has expired and i cannot reset it
+T135,Meera Das,Something is not working,2026-09-09,Medium,Closed,Application Error,something is not working
+T136,Isha Roy,Urgent: I need help to build a dashboard report of monthly targets Kindly resolve this.,2026-07-15,Low,In Progress,Report,urgent i need help to build a dashboard report of monthly targets kindly resolve this
+T137,Rahul Khan,Application gives error while saving Please help.,2026-09-02,Medium,Closed,Application Error,application gives error while saving please help
+T138,Divya Singh,Urgent: Application error code 503 service unavailable,2026-02-14,Low,Closed,Application Error,urgent application error code service unavailable
+T139,Aarav Khan,I need to change my notification preferences in my profile,2026-01-12,Low,Open,Account Update,i need to change my notification preferences in my profile
+T140,Divya Das,I would like to change my subscription plan details,2026-07-28,Low,Open,Account Update,i would like to change my subscription plan details
+T141,Nikhil Nair,I cannot sign in to the portal from my laptop Thanks.,2026-09-11,Low,Open,Login Issue,i cannot sign in to the portal from my laptop thanks
+T142,Meera Patel,Application hangs for a long time when I open reports page,2026-06-22,Low,In Progress,Performance,application hangs for a long time when i open reports page
+T143,Divya Das,Update the designation in my account profile Kindly resolve this.,2026-05-12,Low,Closed,Account Update,update the designation in my account profile kindly resolve this
+T144,Nikhil Nair,I need help to build a dashboard report of monthly targets,2026-08-28,Medium,Closed,Report,i need help to build a dashboard report of monthly targets
+T145,Rahul Das,Forgot password link is broken,2026-01-19,High,Closed,Login Issue,forgot password link is broken
+T146,Faisal Das,Too slow,2026-03-27,Medium,Closed,Performance,too slow
+T147,Vikram Iyer,"Dear support, Generate the monthly invoice report for me",2026-03-03,Medium,In Progress,Report,dear support generate the monthly invoice report for me
+T148,Sameer Das,I want to add a new contact number to my profile,2026-09-14,Low,Closed,Account Update,i want to add a new contact number to my profile
+T149,Sneha Sharma,I forgot my password and cannot login,2026-05-08,High,Closed,Login Issue,i forgot my password and cannot login
+T150,Rahul Roy,Please note: System speed is very poor today,2026-06-03,Low,Closed,Performance,please note system speed is very poor today
+T152,Neha Iyer,Urgent: Uploading a file takes forever Kindly resolve this.,2026-07-25,High,Closed,Performance,urgent uploading a file takes forever kindly resolve this
+T153,Faisal Verma,The application became slow after the latest update,2026-05-15,High,Open,Performance,the application became slow after the latest update
+T154,Rahul Reddy,Need monthly sales report,2026-08-08,Low,Closed,Report,need monthly sales report
+T155,Sameer Reddy,Incorrect password error even though I typed the right one,2026-07-23,Low,In Progress,Login Issue,incorrect password error even though i typed the right one
+T156,Tanvi Iyer,The application throws an exception when I update a record Please help.,2026-06-24,Medium,Closed,Application Error,the application throws an exception when i update a record please help
+T157,Nikhil Reddy,How do I update my billing address,2026-07-23,Medium,Closed,Account Update,how do i update my billing address
+T158,Tanvi Singh,Please note: The application is very slow today as soon as possible.,2026-07-09,High,Closed,Performance,please note the application is very slow today as soon as possible
+T159,Vikram Sharma,Urgent: Very long delay when I click on any button,2026-05-27,High,Closed,Performance,urgent very long delay when i click on any button
+T160,Karan Reddy,Unable to sign in with my username and password Kindly resolve this.,2026-02-07,Low,Closed,Login Issue,unable to sign in with my username and password kindly resolve this
+T161,Kavya Das,The error appears only because the system is so slow,2026-09-10,Medium,Open,Performance,the error appears only because the system is so slow
+T162,Neha Verma,Page takes too much time to load,2026-01-08,High,Closed,Performance,page takes too much time to load
+T163,Priya Patel,Forgot password link is broken Please help.,2026-02-02,Medium,Open,Login Issue,forgot password link is broken please help
+T164,Isha Sharma,Urgent: Need to change the primary contact person on my account,2026-10-18,Low,Closed,Account Update,urgent need to change the primary contact person on my account
+T165,Sneha Verma,I cannot login to the application,2026-07-04,High,Open,Login Issue,i cannot login to the application
+T166,Divya Das,Report does not include the filter I selected,2026-10-09,High,Open,Report,report does not include the filter i selected
+T167,Vikram Iyer,I keep getting logged out immediately after signing in,2026-03-09,High,In Progress,Login Issue,i keep getting logged out immediately after signing in
+T168,Sameer Verma,I would like to update my bank details on my account,2026-04-21,Low,In Progress,Account Update,i would like to update my bank details on my account
+T169,Rahul Singh,Need to correct the spelling of my name in my account,2026-05-21,Medium,Open,Account Update,need to correct the spelling of my name in my account
+T170,Ananya Reddy,Urgent: I need to change my notification preferences in my profile,2026-01-05,Low,Closed,Account Update,urgent i need to change my notification preferences in my profile
+T171,Sameer Verma,Everything is running very slowly on my computer Please help.,2026-06-23,High,Closed,Performance,everything is running very slowly on my computer please help
+T172,Kavya Nair,Need an attendance report for all employees,2026-07-08,Low,Closed,Report,need an attendance report for all employees
+T173,Faisal Verma,Page shows a blank screen with an error code,2026-07-19,High,Open,Application Error,page shows a blank screen with an error code
+T174,Imran Roy,"Hello team, Could you share the customer growth report for this quarter Thanks.",2026-05-27,High,Closed,Report,hello team could you share the customer growth report for this quarter thanks
+T175,Faisal Sharma,I need last year's profit and loss report,2026-09-15,Medium,Open,Report,i need last years profit and loss report
+T176,Sameer Roy,"Update required for my contact details, login works fine",2026-03-20,Low,Open,Account Update,update required for my contact details login works fine
+T177,Karan Roy,"Dear support, Application hangs for a long time when I open reports page Please help.",2026-09-14,Low,Closed,Performance,dear support application hangs for a long time when i open reports page please help
+T178,Kavya Reddy,The application freezes and then closes with an error,2026-04-26,High,Open,Application Error,the application freezes and then closes with an error
+T179,Kavya Khan,System speed is very poor today,2026-05-14,High,Open,Performance,system speed is very poor today
+T180,Imran Nair,Unexpected error occurred while processing my request,2026-06-22,Medium,Closed,Application Error,unexpected error occurred while processing my request
+T182,Ananya Nair,The application is very slow today,2026-01-22,High,Closed,Performance,the application is very slow today
+T183,Neha Das,Kindly modify the registered address of my account,2026-07-06,Medium,Closed,Account Update,kindly modify the registered address of my account
+T184,Kavya Iyer,I cannot sign in to the portal from my laptop,2026-02-19,High,Closed,Login Issue,i cannot sign in to the portal from my laptop
+T185,Nikhil Sharma,Report does not include the filter I selected Please help.,2026-03-16,Medium,Closed,Report,report does not include the filter i selected please help
+T186,Neha Patel,Please change my phone number in the system as soon as possible.,2026-10-26,Medium,Closed,Account Update,please change my phone number in the system as soon as possible
+T187,Rahul Roy,Cannot access my account because I forgot the username as soon as possible.,2026-03-05,Medium,In Progress,Login Issue,cannot access my account because i forgot the username as soon as possible
+T188,Sameer Patel,"Dear support, Loading time of the home page is very high Please help.",2026-09-08,High,Closed,Performance,dear support loading time of the home page is very high please help
+T189,Sneha Verma,The app is slow and then shows an error,2026-06-22,High,Closed,Application Error,the app is slow and then shows an error
+T190,Aarav Das,"Please note: Bug in the application, data is not saved and an error is shown as soon as possible.",2026-05-25,High,In Progress,Application Error,please note bug in the application data is not saved and an error is shown as soon as possible
+T191,Faisal Verma,Please unlock my user account so I can log in Please help.,2026-03-03,High,Closed,Login Issue,please unlock my user account so i can log in please help
+T192,Rohan Khan,The system is taking too long to load,2026-05-10,High,Open,Performance,the system is taking too long to load
+T193,Karan Singh,Login takes very long and then fails,2026-07-11,Low,Closed,Login Issue,login takes very long and then fails
+T194,Arjun Verma,I did not get the password reset link Please help.,2026-02-24,High,Open,Login Issue,i did not get the password reset link please help
+T195,Pooja Roy,Application error code 503 service unavailable,2026-07-22,High,Closed,Application Error,application error code service unavailable
+T196,Tanvi Khan,Sluggish performance when many users are logged in,2026-05-02,Medium,In Progress,Performance,sluggish performance when many users are logged in
+T197,Sameer Sharma,Why am I always asked to verify again before I can use my account,2026-05-07,High,Open,Login Issue,why am i always asked to verify again before i can use my account
+T198,Aarav Nair,"Hi, Please update my profile picture as soon as possible.",2026-09-11,Low,Open,Account Update,hi please update my profile picture as soon as possible
+T199,Rahul Sharma,"Dear support, My password is not working and I need to reset it Kindly resolve this.",2026-08-20,Low,In Progress,Login Issue,dear support my password is not working and i need to reset it kindly resolve this
+T200,Ananya Reddy,I need to change my registered mobile number as soon as possible.,2026-01-02,Medium,Open,Account Update,i need to change my registered mobile number as soon as possible
+T201,Aarav Verma,I want to modify my user profile details,2026-09-07,Medium,Closed,Account Update,i want to modify my user profile details
+T202,Pooja Khan,Search is extremely slow and takes forever,2026-04-04,High,Open,Performance,search is extremely slow and takes forever
+T203,Divya Das,Password reset is not working Please help.,2026-05-05,High,Closed,Login Issue,password reset is not working please help
+T204,Rohan Das,"Hi, The report is missing data for last week",2026-02-24,Medium,Closed,Report,hi the report is missing data for last week
+T205,Rohan Patel,I get an error message when I click submit Kindly resolve this.,2026-02-12,Medium,In Progress,Application Error,i get an error message when i click submit kindly resolve this
+T206,Divya Singh,"Hello team, The downloaded report is empty Please help.",2026-08-08,Medium,Open,Report,hello team the downloaded report is empty please help
+T207,Priya Sharma,I forgot my password and cannot login Thanks.,2026-02-07,High,Closed,Login Issue,i forgot my password and cannot login thanks
+T208,Priya Iyer,The portal is so slow that I cannot finish my work Thanks.,2026-09-12,High,In Progress,Performance,the portal is so slow that i cannot finish my work thanks
+T209,Neha Nair,Please note: How can I export the report to Excel.,2026-06-16,Medium,Open,Report,please note how can i export the report to excel
+T210,Priya Verma,"Dear support, The application is showing an error while saving data Please help.",2026-07-27,High,Open,Application Error,dear support the application is showing an error while saving data please help
+T211,Meera Verma,Need to correct the spelling of my name in my account Please help.,2026-02-08,Low,Open,Account Update,need to correct the spelling of my name in my account please help
+T212,Rohan Iyer,"Bug in the application, data is not saved and an error is shown",2026-07-25,High,Closed,Application Error,bug in the application data is not saved and an error is shown
+T213,Ananya Singh,Search is extremely slow and takes forever Please help.,2026-08-25,Medium,Closed,Performance,search is extremely slow and takes forever please help
+T214,Rahul Patel,Verification code for login is not coming to my phone,2026-03-14,High,Open,Login Issue,verification code for login is not coming to my phone
+T215,Priya Das,Error message on the sign in screen,2026-05-17,High,Closed,Login Issue,error message on the sign in screen
+T216,Rahul Patel,"Hi, My account is locked after too many login attempts Please help.",2026-02-13,High,Closed,Login Issue,hi my account is locked after too many login attempts please help
+T217,Arjun Khan,Can you update my shipping address Please help.,2026-03-18,Medium,Open,Account Update,can you update my shipping address please help
+T218,Pooja Verma,Pages are loading very slowly since this morning,2026-07-28,Medium,Closed,Performance,pages are loading very slowly since this morning
+T219,Rahul Iyer,Report page shows an error,2026-10-27,High,Open,Application Error,report page shows an error
+T220,Ananya Sharma,Can you generate an inventory report for this month,2026-05-28,Medium,Closed,Report,can you generate an inventory report for this month
+T221,Ananya Reddy,"There is a bug, the app closes unexpectedly when I press save Please help.",2026-02-19,High,Open,Application Error,there is a bug the app closes unexpectedly when i press save please help
+T222,Divya Singh,"Hi, Upload fails with an unknown error message Please help.",2026-01-13,High,Closed,Application Error,hi upload fails with an unknown error message please help
+T223,Sameer Sharma,Urgent: I need last year's profit and loss report as soon as possible.,2026-04-09,Medium,In Progress,Report,urgent i need last years profit and loss report as soon as possible
+T224,Vikram Iyer,I get an error message when I click submit,2026-03-02,High,In Progress,Application Error,i get an error message when i click submit
+T225,Rohan Sharma,The checkout screen displays an error and does not proceed.,2026-10-05,High,Closed,Application Error,the checkout screen displays an error and does not proceed
+T226,Pooja Khan,The reset password email never arrives in my inbox,2026-06-12,High,Open,Login Issue,the reset password email never arrives in my inbox
+T227,Vikram Patel,Login page keeps saying invalid credentials Please help.,2026-09-18,High,Closed,Login Issue,login page keeps saying invalid credentials please help
+T228,Pooja Roy,Something went wrong message is displayed when I upload a file Please help.,2026-07-22,Low,Closed,Application Error,something went wrong message is displayed when i upload a file please help
+T229,Priya Khan,Need data for last month,2026-02-08,Low,Open,Report,need data for last month
+T230,Neha Roy,"Hi, Request for a detailed usage report for my team",2026-01-18,Medium,Open,Report,hi request for a detailed usage report for my team
+T231,Sneha Roy,"Hello team, Two factor authentication code is not accepted",2026-05-25,Medium,Open,Login Issue,hello team two factor authentication code is not accepted
+T232,Sameer Singh,Please change the registered email id,2026-04-28,Medium,In Progress,Account Update,please change the registered email id
+T233,Karan Singh,Getting error 404 page not found on the orders screen,2026-07-08,High,Closed,Application Error,getting error page not found on the orders screen
+T234,Ananya Khan,Waiting a long time for every page,2026-07-17,Low,Open,Performance,waiting a long time for every page
+T235,Rohan Nair,Could you share the customer growth report for this quarter,2026-09-24,Low,In Progress,Report,could you share the customer growth report for this quarter
+T236,Ananya Singh,Access denied when I enter my credentials,2026-08-21,High,Open,Login Issue,access denied when i enter my credentials
+T237,Divya Verma,The portal is so slow that I cannot finish my work,2026-04-27,High,Open,Performance,the portal is so slow that i cannot finish my work
+T238,Isha Reddy,Need to fix my information in the system,2026-05-28,Medium,Closed,Account Update,need to fix my information in the system
+T239,Faisal Roy,Please note: Page shows a blank screen with an error code,2026-04-12,High,In Progress,Application Error,please note page shows a blank screen with an error code
+T240,Divya Nair,The app crashes whenever I open the dashboard,2026-03-08,Medium,In Progress,Application Error,the app crashes whenever i open the dashboard
+T241,Rohan Reddy,"Hello team, Please send me the annual performance report",2026-04-12,Medium,Open,Report,hello team please send me the annual performance report
+T242,Vikram Reddy,Application gives error while saving,2026-03-24,High,Closed,Application Error,application gives error while saving
+T243,Meera Reddy,Not able to enter the system since yesterday,2026-01-25,Medium,Open,Login Issue,not able to enter the system since yesterday
+T244,Rahul Singh,Please edit my date of birth in my account details,2026-08-25,Medium,Closed,Account Update,please edit my date of birth in my account details
+T245,Priya Das,My id is blocked,2026-05-04,Medium,Closed,Login Issue,my id is blocked
+T246,Aarav Khan,Urgent: Request to update my account information Kindly resolve this.,2026-03-19,Low,Open,Account Update,urgent request to update my account information kindly resolve this
+T247,Nikhil Iyer,I am not receiving the OTP to log in,2026-06-08,Low,Open,Login Issue,i am not receiving the otp to log in
+T248,Meera Singh,"Dear support, The website response time is too high",2026-05-26,High,Open,Performance,dear support the website response time is too high
+T249,Divya Roy,"Hello team, Please replace my old email with my new email address.",2026-10-20,Low,Closed,Account Update,hello team please replace my old email with my new email address
+T250,Kavya Khan,"Dear support, System is slow during peak hours.",2026-03-03,High,Closed,Performance,dear support system is slow during peak hours
+T251,Kavya Khan,I would like to update my bank details on my account Kindly resolve this.,2026-10-07,High,Closed,Account Update,i would like to update my bank details on my account kindly resolve this
+T252,Kavya Patel,Something went wrong message is displayed when I upload a file,2026-01-22,High,Open,Application Error,something went wrong message is displayed when i upload a file
+T253,Aarav Das,System is slow during peak hours,2026-05-06,Low,Open,Performance,system is slow during peak hours
+T254,Tanvi Patel,The application is showing an error while saving data,2026-06-07,Medium,In Progress,Application Error,the application is showing an error while saving data
+T256,Sneha Singh,"Dear support, Page takes too much time to load",2026-10-18,High,Closed,Performance,dear support page takes too much time to load
+T257,Priya Verma,Exception while opening the screen,2026-07-12,High,Closed,Application Error,exception while opening the screen
+T258,Meera Sharma,I am locked out of my account Kindly resolve this.,2026-02-12,Medium,Closed,Login Issue,i am locked out of my account kindly resolve this
+T259,Arjun Nair,Please update my profile picture,2026-07-27,Low,Open,Account Update,please update my profile picture
+T260,Neha Das,I want to modify my user profile details Kindly resolve this.,2026-10-20,High,Open,Account Update,i want to modify my user profile details kindly resolve this
+T261,Pooja Iyer,Statistics for this quarter please,2026-06-21,Medium,In Progress,Report,statistics for this quarter please
+T262,Sameer Reddy,"Hello team, I want to change the name on my profile",2026-09-06,High,In Progress,Account Update,hello team i want to change the name on my profile
+T263,Sameer Singh,Request for a detailed usage report for my team,2026-02-01,Low,Closed,Report,request for a detailed usage report for my team
+T264,Meera Verma,"Hi, How do I update my billing address Thanks.",2026-04-13,Low,Closed,Account Update,hi how do i update my billing address thanks
+T265,Aarav Singh,Please note: Need monthly sales report Kindly resolve this.,2026-06-06,Medium,Open,Report,please note need monthly sales report kindly resolve this
+T266,Divya Reddy,Please note: I get a timeout error when I submit the form Please help.,2026-02-16,High,Closed,Application Error,please note i get a timeout error when i submit the form please help
+T267,Imran Verma,The screen is lagging when I scroll through the list,2026-06-04,Medium,Open,Performance,the screen is lagging when i scroll through the list
+T268,Faisal Roy,Please note: Need the expense report for the finance team Please help.,2026-08-15,High,Open,Report,please note need the expense report for the finance team please help
+T269,Tanvi Das,It was fast last week but not now,2026-10-02,Medium,Open,Performance,it was fast last week but not now
+T270,Vikram Das,I am locked out of my account,2026-03-18,Low,In Progress,Login Issue,i am locked out of my account
+T271,Tanvi Reddy,Request to update my account information,2026-01-06,Medium,Closed,Account Update,request to update my account information
+T272,Tanvi Verma,"Hi, The application freezes and then closes with an error as soon as possible.",2026-08-14,Medium,Closed,Application Error,hi the application freezes and then closes with an error as soon as possible
+T273,Ananya Patel,Please send me the annual performance report,2026-04-24,Medium,Closed,Report,please send me the annual performance report
+T274,Sneha Roy,Application is slow when saving data,2026-03-10,High,Open,Performance,application is slow when saving data
+T275,Meera Singh,How can I export the report to Excel,2026-08-26,High,Open,Report,how can i export the report to excel

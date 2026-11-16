@@ -1,0 +1,45 @@
+Training samples: 216  |  Testing samples: 54
+
+Model comparison (5-fold cross-validation accuracy on training data):
+  Logistic Regression  mean = 0.949  (+/- 0.027)
+  Naive Bayes          mean = 0.926  (+/- 0.027)
+  Linear SVM           mean = 0.949  (+/- 0.027)
+
+============================================================
+TEST RESULTS (Logistic Regression + TF-IDF)
+============================================================
+Accuracy : 94.44%
+Precision: 95.17%  (weighted average)
+Recall   : 94.44%  (weighted average)
+F1 Score : 94.41%  (weighted average)
+
+Per-category report:
+
+                   precision    recall  f1-score   support
+
+   Account Update       1.00      0.91      0.95        11
+Application Error       1.00      0.82      0.90        11
+      Login Issue       1.00      1.00      1.00        10
+      Performance       0.85      1.00      0.92        11
+           Report       0.92      1.00      0.96        11
+
+         accuracy                           0.94        54
+        macro avg       0.95      0.95      0.95        54
+     weighted avg       0.95      0.94      0.94        54
+
+Confusion matrix (rows = actual, columns = predicted):
+['Account Update', 'Application Error', 'Login Issue', 'Performance', 'Report']
+[[10  0  0  0  1]
+ [ 0  9  0  2  0]
+ [ 0  0 10  0  0]
+ [ 0  0  0 11  0]
+ [ 0  0  0  0 11]]
+
+Model saved to /home/claude/AI_Assignment_YourName/model/trained_model.joblib
+
+Top 5 words/phrases the model uses for each category:
+  Account Update    : my, update, change, update my, details
+  Application Error : error, an, an error, while, when
+  Login Issue       : password, login, cannot, in, reset
+  Performance       : slow, very, is, takes, time
+  Report            : report, for, sales, report for, need
